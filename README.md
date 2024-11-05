@@ -1,6 +1,6 @@
 # FlipperZero-CC1101-HoneyPot Framework
-Honey Pot for FlipperZero CC1101 Sub-1 GHz attacks. Requires a CC1101 Antenna that is connected to a PC/Rasberry Pi, etc. 
-Any idiot that connects their FlipperZero to this honeypot will receive insane amount of date with a message that says "Go Fuck Yourself!"
+HoneyPot for FlipperZero CC1101 Sub-1 GHz attacks. Requires a CC1101 Antenna that is connected to a PC/Rasberry Pi, etc. 
+Any idiot that connects their FlipperZero to this honeypot will receive insane amount of data with a message that says "Go Fuck Yourself!"
 Hopefully freezing the FlipperZero or fill up it's memory. 
 
 This script was specially designed for "geniuses" like 0dayCTF "Ryan Montgomery." 
