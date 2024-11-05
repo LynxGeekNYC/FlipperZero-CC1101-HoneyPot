@@ -3,6 +3,8 @@ Honey Pot for FlipperZero CC1101 Sub-1 GHz attacks. Requires a CC1101 Antenna th
 Any idiot that connects their FlipperZero to this honeypot will receive insane amount of date with a message that says "Go Fuck Yourself!"
 Hopefully freezing the FlipperZero or fill up it's memory. 
 
+This script was specially designed for "geniuses" like 0dayCTF "Ryan Montgomery." 
+
 # Was this script helpful to you? Please donate:
 I put a lot of work into these scripts so please donate if you can. Even $1 helps!
 
