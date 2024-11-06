@@ -42,7 +42,7 @@ class CC1101Honeypot:
         return ''.join(buffer)
 
     def send_response(self, message, repeat=100):
-        # Send "hahaha" repeatedly as a response
+        # Send "Go fuck yourself" repeatedly as a response
         for _ in range(repeat):
             for char in message:
                 self.spi.xfer2([ord(char)])  # Send each character as byte
