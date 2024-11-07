@@ -1,7 +1,7 @@
 # Versions
 cc1101.py - For regular PC's
 
-CC1101-FS.PY - For Flipper Zero
+CC1101-FZ.PY - For Flipper Zero
 
 # FlipperZero-CC1101-HoneyPot Framework
 HoneyPot for FlipperZero CC1101 Sub-1 GHz attacks. Requires a CC1101 Antenna that is connected to a PC/Rasberry Pi, etc. 
